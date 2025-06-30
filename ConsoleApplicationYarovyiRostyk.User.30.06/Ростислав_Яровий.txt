@@ -1,0 +1,4 @@
+Ім'я: Ростислав
+Прізвище: Яровий
+ID: U001
+Email: rostyslav@example.com
